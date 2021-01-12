@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 1/11 Class exercises. React apps.
 
 ## Exercise - Form Edit
 
