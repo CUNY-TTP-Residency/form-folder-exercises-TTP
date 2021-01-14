@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/increment-decrement-form-folder-exercises-TTP/static/css/main.6d95ff1f.chunk.css",
+    "main.js": "/increment-decrement-form-folder-exercises-TTP/static/js/main.3d163216.chunk.js",
+    "main.js.map": "/increment-decrement-form-folder-exercises-TTP/static/js/main.3d163216.chunk.js.map",
+    "runtime-main.js": "/increment-decrement-form-folder-exercises-TTP/static/js/runtime-main.2cad125b.js",
+    "runtime-main.js.map": "/increment-decrement-form-folder-exercises-TTP/static/js/runtime-main.2cad125b.js.map",
+    "static/js/2.4bb6d13e.chunk.js": "/increment-decrement-form-folder-exercises-TTP/static/js/2.4bb6d13e.chunk.js",
+    "static/js/2.4bb6d13e.chunk.js.map": "/increment-decrement-form-folder-exercises-TTP/static/js/2.4bb6d13e.chunk.js.map",
+    "static/js/3.eda0a607.chunk.js": "/increment-decrement-form-folder-exercises-TTP/static/js/3.eda0a607.chunk.js",
+    "static/js/3.eda0a607.chunk.js.map": "/increment-decrement-form-folder-exercises-TTP/static/js/3.eda0a607.chunk.js.map",
+    "index.html": "/increment-decrement-form-folder-exercises-TTP/index.html",
+    "static/css/main.6d95ff1f.chunk.css.map": "/increment-decrement-form-folder-exercises-TTP/static/css/main.6d95ff1f.chunk.css.map",
+    "static/js/2.4bb6d13e.chunk.js.LICENSE.txt": "/increment-decrement-form-folder-exercises-TTP/static/js/2.4bb6d13e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cad125b.js",
+    "static/js/2.4bb6d13e.chunk.js",
+    "static/css/main.6d95ff1f.chunk.css",
+    "static/js/main.3d163216.chunk.js"
+  ]
+}
